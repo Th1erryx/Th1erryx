@@ -17,7 +17,7 @@ Também compartilho algumas experiências no meu Instagram pessoal:"[@thierry_fo
         />
     </a>
 </p>
-<a href="https://github.com/Th1erryx/Th1erryx/stargazers">
+<a href="https://github.com/Th1erryx?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
