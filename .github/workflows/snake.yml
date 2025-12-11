@@ -1,8 +1,8 @@
-name: Generate Snake (Pro)
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda uma vez por dia à meia-noite (UTC)
+    - cron: "0 0 * * *" # Roda 1 vez por dia
   workflow_dispatch:
   push:
     branches:
@@ -23,12 +23,12 @@ jobs:
           github_user_name: Th1erryx
           outputs: snake.svg
 
-      - name: Move snake to assets folder
+      - name: Move snake to assets
         run: |
           mkdir -p assets
           mv snake.svg assets/snake.svg || true
 
-      - name: Commit snake image
+      - name: Commit snake.svg
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update snake animation"
