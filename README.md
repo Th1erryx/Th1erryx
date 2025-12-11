@@ -1,9 +1,9 @@
 # Thierry Fontes
 
-Desenvolvedor em formação — interessado em desenvolvimento web, segurança e pentesting.
+Desenvolvedor em formação | Foco em desenvolvimento web e segurança.
 
-Me chamo **Thierry de Andrade Fontes**, tenho 17 anos e sou de Fortaleza (CE). Estou no 3º ano do ensino médio e me preparando para ingressar em Ciência da Computação na UFC.  
-Objetivo: me tornar desenvolvedor Fullstack com foco em segurança e pentest.
+Sou **Thierry de Andrade Fontes**, 17 anos, de Fortaleza (CE), cursando o 3º ano do ensino médio e me preparando para ingressar em **Ciência da Computação (UFC)**.  
+Objetivo: me tornar **Fullstack Developer** com conhecimento em **Pentest e Cybersecurity**.
 
 ---
 
@@ -13,44 +13,34 @@ Objetivo: me tornar desenvolvedor Fullstack com foco em segurança e pentest.
 
 ---
 
-## Tecnologias (em estudo)
-Apresento abaixo as principais tecnologias e ferramentas que estou estudando e praticando atualmente:
-
-- HTML, CSS, JavaScript (ES6+)
-- Node.js, NPM
-- React básico
-- Git e GitHub (fluxo de commits, branch, PR)
-- SQL (básico) e NoSQL (introdução)
-- Noções de redes e segurança (fundamentos de pentest)
-- Linux (comandos e shell scripting)
-- Conceitos de APIs e REST
-
-> Estou sempre expandindo a lista — novos estudos são adicionados conforme avanço nos projetos.
+## Tecnologias em estudo
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" style="margin-right:10px;" />
+</div>
 
 ---
 
-## Projetos em destaque
-(Coloque aqui links para seus repositórios ou projetos hospedados.)
+## Estatísticas
 
-- Projeto A — breve descrição.
-- Projeto B — breve descrição.
+<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/assets/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 ---
 
-## Estatísticas geradas (Metrics)
-As estatísticas são geradas automaticamente e armazenadas neste repositório. Caso as imagens não apareçam imediatamente, aguarde alguns minutos enquanto o workflow gera e commita os arquivos.
-
-<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-
----
-
-## Visual adicional (opcional)
-Se você ativou o workflow do Snake, ele aparecerá aqui:
+## Visual adicional (Snake Animation)
 
 <img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/assets/snake.svg" alt="Snake animation" width="100%">
 
 ---
 
-## Observações finais
-- Os arquivos `github-metrics.svg` e `assets/snake.svg` são gerados automaticamente pelos workflows em `.github/workflows/`.  
-- Se o workflow falhar: abra a aba **Actions** no seu repositório, clique no run com erro e cole aqui a mensagem que eu te ajudo a ajustar.
+## Projetos em destaque
+- Projeto A — breve descrição do projeto
+- Projeto B — breve descrição do projeto
+- Projeto C — breve descrição do projeto
+
