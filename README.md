@@ -48,11 +48,11 @@ Objetivo: me tornar **Fullstack Developer** com conhecimento em **Pentest e Cybe
 <br/>
 
 ---
-
+<br>
 ## Projetos em destaque
 - Projeto A — breve descrição do projeto  
 - Projeto B — breve descrição do projeto  
 - Projeto C — breve descrição do projeto
 
 ---
-
+</br>
