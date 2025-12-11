@@ -47,12 +47,10 @@ Objetivo: me tornar **Fullstack Developer** com especialização em **Pentest e 
 
 ---
 
-## 🐍 Snake Animation (extra tech)
-<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/assets/snake.svg" alt="Snake animation" width="100%" />
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em destaque (em breve)
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:200px;">
     <b>Projeto A</b>
