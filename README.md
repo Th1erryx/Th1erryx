@@ -29,18 +29,30 @@ Objetivo: me tornar **Fullstack Developer** com conhecimento em **Pentest e Cybe
 
 ## Estatísticas
 
-<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/assets/github-metrics.svg" alt="GitHub Metrics" width="100%">
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=Th1erryx&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
+/>
 
----
+<img 
+  align="left" 
+  alt="Top Linguagens" 
+  height="200" 
+  src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Th1erryx&theme=merko&layout=compact&langs_count=8"
+/>
 
-## Visual adicional (Snake Animation)
-
-<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/assets/snake.svg" alt="Snake animation" width="100%">
+<br/>
+<br/>
 
 ---
 
 ## Projetos em destaque
-- Projeto A — breve descrição do projeto
-- Projeto B — breve descrição do projeto
+- Projeto A — breve descrição do projeto  
+- Projeto B — breve descrição do projeto  
 - Projeto C — breve descrição do projeto
+
+---
 
