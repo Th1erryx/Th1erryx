@@ -1,71 +1,56 @@
-# 👨🏻‍💻 Thierry Fontes
+# Thierry Fontes
 
-**Desenvolvedor Fullstack em Formação | Futuro Pentester 🐍**
+Desenvolvedor em formação — interessado em desenvolvimento web, segurança e pentesting.
 
-Me chamo **Thierry de Andrade Fontes**, tenho 17 anos, sou de Fortaleza-CE  
-e tô correndo atrás do meu futuro na área de **Ciência da Computação (UFC)**.
-
-Sou apaixonado por desenvolvimento web, segurança, pentest e tecnologias modernas.
+Me chamo **Thierry de Andrade Fontes**, tenho 17 anos e sou de Fortaleza (CE). Estou no 3º ano do ensino médio e me preparando para ingressar em Ciência da Computação na UFC.  
+Objetivo: me tornar desenvolvedor Fullstack com foco em segurança e pentest.
 
 ---
 
-## 🌐 Conecte-se comigo
-<p align="left">
-    <a href="https://github.com/Th1erryx?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Th1erryx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"
-        />
-    </a>
-
-  <a href="https://github.com/Th1erryx?tab=stars">
-        <img 
-            alt="Estrelas" 
-            title="Meus repositórios estrelados" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Th1erryx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-</p>
+## Contato
+- GitHub: [Th1erryx](https://github.com/Th1erryx)
+- Instagram: [@thierry_fontes](https://www.instagram.com/thierry_fontes)
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## Tecnologias (em estudo)
+Apresento abaixo as principais tecnologias e ferramentas que estou estudando e praticando atualmente:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" style="margin-right:10px;" />
-</div>
+- HTML, CSS, JavaScript (ES6+)
+- Node.js, NPM
+- React básico
+- Git e GitHub (fluxo de commits, branch, PR)
+- SQL (básico) e NoSQL (introdução)
+- Noções de redes e segurança (fundamentos de pentest)
+- Linux (comandos e shell scripting)
+- Conceitos de APIs e REST
 
----
-
-## 📊 Estatísticas PRO (Metrics)
-
-<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/github-metrics.svg" width="100%" />
-
----
-
-## 🐍 Snake Animation (chama atenção demais)
-
-<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/output/snake.svg" alt="snake animation" />
+> Estou sempre expandindo a lista — novos estudos são adicionados conforme avanço nos projetos.
 
 ---
 
-## 💬 Sobre mim
+## Projetos em destaque
+(Coloque aqui links para seus repositórios ou projetos hospedados.)
 
-- 📍 Fortaleza-CE  
-- 🎓 Estudante do 3º ano do ensino médio  
-- 🔭 Rumo à **Ciência da Computação — UFC**  
-- 💻 Sonho: Desenvolvedor Fullstack + Pentester  
-- 🔥 Interesses: Cibersegurança, invasão ética, JavaScript, redes, APIs  
-- 📚 Estudando diariamente programação e lógica  
+- Projeto A — breve descrição.
+- Projeto B — breve descrição.
 
 ---
 
-## 🚀 Objetivo para 2025
-Virar **dev fullstack**, aprender pentest e montar meu portfólio 🔥
+## Estatísticas geradas (Metrics)
+As estatísticas são geradas automaticamente e armazenadas neste repositório. Caso as imagens não apareçam imediatamente, aguarde alguns minutos enquanto o workflow gera e commita os arquivos.
+
+<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 ---
 
+## Visual adicional (opcional)
+Se você ativou o workflow do Snake, ele aparecerá aqui:
+
+<img src="https://raw.githubusercontent.com/Th1erryx/Th1erryx/main/assets/snake.svg" alt="Snake animation" width="100%">
+
+---
+
+## Observações finais
+- Os arquivos `github-metrics.svg` e `assets/snake.svg` são gerados automaticamente pelos workflows em `.github/workflows/`.  
+- Se o workflow falhar: abra a aba **Actions** no seu repositório, clique no run com erro e cole aqui a mensagem que eu te ajudo a ajustar.
