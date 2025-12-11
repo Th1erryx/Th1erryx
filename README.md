@@ -58,20 +58,17 @@ Também compartilho algumas experiências no meu Instagram pessoal:"[@thierry_fo
 
 ### 📊 Estatísticas 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Th1erryx&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
-  />
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=Th1erryx&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=3600"
+/>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Th1erryx&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=3"
-  />
-</p>
-
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1erryx&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=3&cache_seconds=3600"
+/>
