@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação | Foco em Fullstack & Segurança
 
-Sou **Thierry de Andrade Fontes**, 17 anos, de Fortaleza (CE), cursando o 3º ano do ensino médio e me preparando para ingressar em **Ciência da Computação (UFC)**.  
+Sou **Thierry de Andrade Fontes**, 17 anos, de Fortaleza (CE), me preparando para ingressar em **Bacharelado em tecnologia da informação (UERSA)** no primeiro ciclo.  
 Objetivo: me tornar **Fullstack Developer** com especialização em **Pentest e Cybersecurity**.
 
 ---
