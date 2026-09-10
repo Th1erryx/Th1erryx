@@ -1,9 +1,9 @@
 # Thierry Fontes
 
-Desenvolvedor em formação | Foco em Fullstack & Segurança
+Desenvolvedor em formação | Foco em Backend & Cibersecurity
 
-Sou **Thierry de Andrade Fontes**, 17 anos, de Fortaleza (CE), me preparando para ingressar em **Bacharelado em tecnologia da informação (UERSA)** no primeiro ciclo.  
-Objetivo: me tornar **Fullstack Developer** com especialização em **Pentest e Cybersecurity**.
+Sou **Thierry de Andrade Fontes**, 18 anos, natural de Fortaleza (CE),atualmente residindo em Pau dos Ferros (RN) onde curso **Bacharelado em tecnologia da informação (UERSA)** no primeiro ciclo.  
+Objetivo: me tornar **Backend Developer** com especialização em **Pentest e Cybersecurity**.
 
 ---
 
