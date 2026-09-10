@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação | Foco em Backend & Cibersecurity
 
-Sou **Thierry de Andrade Fontes**, 18 anos, natural de Fortaleza (CE), atualmente residindo em Pau dos Ferros (RN) onde curso **Bacharelado em tecnologia da informação (UERSA)** no primeiro ciclo.  
+Sou **Thierry de Andrade Fontes**, 18 anos, natural de Fortaleza (CE), atualmente residindo em Pau dos Ferros (RN) onde curso **Bacharelado em tecnologia da informação (UFERSA)** no primeiro ciclo.  
 Objetivo: me tornar **Backend Developer** com especialização em **Pentest e Cybersecurity**.
 
 ---
