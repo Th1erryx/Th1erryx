@@ -12,7 +12,7 @@ Atualmente estou desenvolvendo meus conhecimentos em **desenvolvimento web, APIs
 
 ## Sobre mim
 
-* 🎓 Bacharelado em Tecnologia da Informação — **UFERSA**
+* 🎓 Bacharelado em Tecnologia da Informação — **UFERSA** (cursando)
 * 💻 Foco atual: **Backend Development**
 * 🔐 Área de interesse: **Cybersecurity & Pentest**
 * 🐧 Ambiente: **Linux**
