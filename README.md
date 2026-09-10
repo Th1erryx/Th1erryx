@@ -50,12 +50,12 @@ Objetivo: me tornar **Backend Developer** com especialização em **Pentest e Cy
 
 ---
 
-## 🚀 Projetos em destaque (em breve)
+## 🚀 Projetos em destaque 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:200px;">
-    <b>Projeto A</b>
-    <p>Breve descrição do projeto A.</p>
-    <a href="https://github.com/Th1erryx/projeto-a">Ver no GitHub</a>
+    <b>Ufersa mobile</b>
+    <p>Assim que ingressei na universidade, senti carência no app usado para cronograma e funcionalidades. Decidindo assim criar e adaptar um proprio.</p>
+    <a href="https://github.com/Th1erryx/ufersa-mobile">Ver no GitHub</a>
   </div>
   <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:200px;">
     <b>Projeto B</b>
